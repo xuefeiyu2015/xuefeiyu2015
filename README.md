@@ -3,7 +3,7 @@ I'm Xuefei, a neuroscientist exploring the neural mechanisms of value processing
 
 I also work as a neural data scientist, focusing on designing and quantifying complex behavioral paradigms, building large-scale neural data analysis pipelines, visualizing high-dimensional neural activity, and uncovering the latent representations of cognition in neural populations.
 
-In most of my scientific work, I primarily use MATLAB and Python. For personal projects outside of science, I enjoy working with other programming languages such as C++, Java, and more — building tools and applications that align with my interests and help make life a little easier.
+In most of my neuroscientific work, I primarily use MATLAB and Python. For personal projects outside of neuroscience, I enjoy working with other programming languages such as C++, Java, and more — building tools and applications that align with my interests and help make life more fun and a little easier.
 
 <!--
 **xuefeiyu2015/xuefeiyu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
